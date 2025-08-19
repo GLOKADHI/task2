@@ -25,8 +25,8 @@ A modern, responsive food delivery application built with React, TypeScript, and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/foodiehub.git
-cd foodiehub
+git clone https://github.com/yourusername/task2.git
+cd task2
 ```
 
 2. Install dependencies:
